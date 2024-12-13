@@ -1,0 +1,15 @@
+--Overview of Automated Test Cases--
+
+
+Login Test:
+•Automates the login functionality by navigating to the login page, entering valid credentials, and verifying successful login and then logout.
+•Tools and Methods: page.goto, page.fill, page.click, and assertions using expect.
+
+Navigation Test:
+•Verifies that the "Terms of Use" and "Privacy Policy" links in the footer correctly navigate to their respective pages.
+•Includes steps to scroll to the footer, click the links, and validate the page URLs.
+•Tools and Methods: page.locator, page.click, and expect.
+
+Search Functionality Test:
+•Checks the search functionality by entering specific keywords like "Computer Science", submitting the search form, and verifying that the results page is displayed with relevant content.
+•Tools and Methods: page.fill, page.click, expect.
