@@ -1,2 +1,5 @@
 # Automation-Functional-Tests---Wiley
-Automation scripts for functional test cases
+Open e2e folder for Test Scripts
+login.spec.js
+navigation.spec.js
+search.spec.js
